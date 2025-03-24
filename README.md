@@ -176,22 +176,6 @@ npm start      # Run production build
 npm test       # (Future: Add tests)
 ```
 
-## 📄 License
-
-MIT License. See LICENSE file for details.
-
-## 📞 Contact Information
-
-```
-Author: [Your Name]
-GitHub: @Razaaaaa27
-Email: your.email@example.com
-```
-
-## 🙏 Credits
-
-Built with ❤️ using Express.js and TypeScript.
-
 ## 🏁 Get Started
 
 ```bash
@@ -200,5 +184,4 @@ cd vehicle-management-system
 npm install
 npm run dev
 
-# Happy coding!
-```
+
